@@ -1,0 +1,47 @@
+settings:
+  sounds: true
+  particles: true
+  rare-broadcast: true
+  rare-broadcast-below-percent: 1.0
+  rare-broadcast-message: '&d✦ &f%player% &7wylosował rzadką nagrodę &e%reward% &7ze skrzynki &6%crate%'
+crates:
+  flowybox:
+    display-name: '&b&lꜰʟᴏᴡʏʙᴏx'
+    gui-title: '&8ꜰʟᴏᴡʏʙᴏx'
+    key-material: TRIPWIRE_HOOK
+    key-name: '&b&lKlucz ꜰʟᴏᴡʏʙᴏx'
+    hologram:
+      - '&b&lꜰʟᴏᴡʏʙᴏx'
+      - '&fᴋʟɪᴋɴɪᴊ &a[ᴘᴘᴍ] &fᴀʙʏ ᴏᴛᴡᴏʀᴢʏᴄ!'
+      - '&fᴋʟᴜᴄᴢ ᴢᴀᴋᴜᴘɪꜱᴢ ɴᴀ &bᴡᴡᴡ.ꜰʟᴏᴡʏᴍᴄ.ᴘʟ'
+    rewards: []
+  rzadka:
+    display-name: '&a&lʀᴢᴀᴅᴋᴀ'
+    gui-title: '&8ʀᴢᴀᴅᴋᴀ'
+    key-material: TRIPWIRE_HOOK
+    key-name: '&a&lKlucz ʀᴢᴀᴅᴋᴀ'
+    hologram:
+      - '&a&lʀᴢᴀᴅᴋᴀ'
+      - '&fᴋʟɪᴋɴɪᴊ &a[ᴘᴘᴍ] &fᴀʙʏ ᴏᴛᴡᴏʀᴢʏᴄ!'
+      - '&fᴋʟᴜᴄᴢ ᴢᴀᴋᴜᴘɪꜱᴢ ɴᴀ &bᴡᴡᴡ.ꜰʟᴏᴡʏᴍᴄ.ᴘʟ'
+    rewards: []
+  epicka:
+    display-name: '&5&lᴇᴘɪᴄᴋᴀ'
+    gui-title: '&8ᴇᴘɪᴄᴋᴀ'
+    key-material: TRIPWIRE_HOOK
+    key-name: '&5&lKlucz ᴇᴘɪᴄᴋᴀ'
+    hologram:
+      - '&5&lᴇᴘɪᴄᴋᴀ'
+      - '&fᴋʟɪᴋɴɪᴊ &a[ᴘᴘᴍ] &fᴀʙʏ ᴏᴛᴡᴏʀᴢʏᴄ!'
+      - '&fᴋʟᴜᴄᴢ ᴢᴀᴋᴜᴘɪꜱᴢ ɴᴀ &bᴡᴡᴡ.ꜰʟᴏᴡʏᴍᴄ.ᴘʟ'
+    rewards: []
+  legendarna:
+    display-name: '&6&lʟᴇɢᴇɴᴅᴀʀɴᴀ'
+    gui-title: '&8ʟᴇɢᴇɴᴅᴀʀɴᴀ'
+    key-material: TRIPWIRE_HOOK
+    key-name: '&6&lKlucz ʟᴇɢᴇɴᴅᴀʀɴᴀ'
+    hologram:
+      - '&6&lʟᴇɢᴇɴᴅᴀʀɴᴀ'
+      - '&fᴋʟɪᴋɴɪᴊ &a[ᴘᴘᴍ] &fᴀʙʏ ᴏᴛᴡᴏʀᴢʏᴄ!'
+      - '&fᴋʟᴜᴄᴢ ᴢᴀᴋᴜᴘɪꜱᴢ ɴᴀ &bᴡᴡᴡ.ꜰʟᴏᴡʏᴍᴄ.ᴘʟ'
+    rewards: []

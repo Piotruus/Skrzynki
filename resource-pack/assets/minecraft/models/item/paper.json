@@ -1,0 +1,56 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 9101
+      },
+      "model": "skrzynki:item/flowybox_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9102
+      },
+      "model": "skrzynki:item/flowybox_lid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9103
+      },
+      "model": "skrzynki:item/epicka_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9104
+      },
+      "model": "skrzynki:item/epicka_lid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9105
+      },
+      "model": "skrzynki:item/rzadka_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9106
+      },
+      "model": "skrzynki:item/rzadka_lid"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9107
+      },
+      "model": "skrzynki:item/legendarna_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9108
+      },
+      "model": "skrzynki:item/legendarna_lid"
+    }
+  ]
+}

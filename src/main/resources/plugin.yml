@@ -1,0 +1,17 @@
+name: Skrzynki
+version: 2.0.0
+main: pl.example.skrzynki.SkrzynkiPlugin
+api-version: '1.21'
+softdepend: [PlaceholderAPI]
+author: ChatGPT
+description: Fizyczne skrzynki z hologramami, kluczami, statystykami i PlaceholderAPI.
+commands:
+  case:
+    description: Zarządzanie skrzynkami
+    aliases: [cases]
+  skrzynki:
+    description: Alias pomocy skrzynek
+permissions:
+  skrzynki.admin:
+    description: Zarządzanie skrzynkami
+    default: op
